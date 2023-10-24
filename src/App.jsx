@@ -1,12 +1,10 @@
 
 import './App.css'
-
+import Screen from './Components/screen'
 function App() {
   
   return (
-    <div className="w-30 h-10 bg-blue-200">
-      어서오고ㅇㅇ
-    </div>
+    <Screen/>
   )
 }
 
