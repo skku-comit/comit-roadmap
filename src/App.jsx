@@ -1,10 +1,9 @@
 
-import './App.css'
-import Screen from './Components/Screen'
+import Mainpage from './Components/Mainpage'
 function App() {
   
   return (
-    <Screen/>
+   <Mainpage/>
   )
 }
 
